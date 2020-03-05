@@ -1,0 +1,94 @@
+
+		@font-face{
+			font-family: 'Averta';
+		    src: url("averta/Averta-Black.otf") format("otf");
+		}
+
+		body { 
+			font-family: 'Averta', sans-serif;
+		}
+
+		h1{
+
+			font-size: 40px;
+		}
+		.first{
+			margin-right:100px;
+			margin-left:30px;
+		}
+
+		.second{
+			margin-right:100px;
+			margin-left:100px;
+		}
+		.text{
+bottom:30px;
+		}
+		.written{
+			margin-right:50px;
+			margin-bottom:60px;
+			margin-left:50px;
+		}
+		.title{
+			margin-top:40px;
+			margin-right:50px;
+			margin-left:10px;
+		}
+
+		h2{
+			font-size: 2em;
+			margin-left:50px;
+		}
+
+		h3{
+			margin-left:100px;
+			margin-right:100px;
+
+			font-size:1.5em;
+		}
+
+		.text{
+			margin-left:30px;
+		}
+		.third{
+			margin-left:50px;
+			margin-right:100px;
+			margin-left:100px;
+		}
+		.fourth{
+			margin-left:50px;
+			margin-right:100px;
+			margin-left:100px;
+		}
+		.fifth{
+			margin-left:50px;
+			margin-right:100px;
+			margin-left:100px;
+		}
+		.sixth{
+			margin-left:50px;
+			margin-right:100px;
+			margin-left:100px;
+		}
+		.seventh{margin-left:50px;
+			margin-right:100px;
+		margin-left:100px;}
+		.eigth{margin-left:50px;
+			margin-right:100px;
+		margin-left:100px;}
+		.ninth{
+			margin-left:50px;
+			margin-right:100px;
+			margin-left:100px;
+		}
+		.tenth{
+			margin-left:50px;
+			margin-right:100px;
+			margin-left:100px;
+		}
+		.eleventh{
+			margin-left:50px;
+			margin-right:100px;
+			margin-bottom:100px;
+			margin-left:100px;
+		}
